@@ -1,0 +1,13 @@
+<div id="header">
+  <div id="p1"> 
+  Fun Reading
+  </div>
+ <img src="/assets/books.jpeg"/>
+ <p id="desc">making reading fun!!!!</p>
+ <div>
+  <app-nav *ngFor="let item of navService.navItems" [text]="item.text"></app-nav>
+ </div>
+</div>
+
+
+
