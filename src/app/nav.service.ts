@@ -8,7 +8,7 @@ public navItems:NavItem[];
       new NavItem("Home",""),
       new NavItem("Offers",""),
       new NavItem("Aboout",""),
-      new NavItem("Contactus","")
+      new NavItem("Contact us","")
     ]
    }
 

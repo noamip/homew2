@@ -11,7 +11,7 @@ public index:number;
 public urlImage:string;
   constructor() {
     this.index=0;
-    this.images=["assets/kids-reading.jpg","assets/read.jpg","http://rs1220.pbsrc.com/albums/dd454/wulant12/reading-1.jpg?w=280&h=210&fit=crop","http://rs153.pbsrc.com/albums/s229/camzi07/Reading_by_Tooshtoosh.jpg?w=280&h=210&fit=crop","http://rs296.pbsrc.com/albums/mm166/wpplphotos/Readingboys.jpg?w=280&h=210&fit=crop"];
+    this.images=["assets/read.jpg","assets/reading-1.jpg","assets/read2.jpg","assets/read3.jpg"];
     this.urlImage=this.Image;
     setInterval(()=>{
       this.urlImage=this.Image;

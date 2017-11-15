@@ -10,30 +10,32 @@
     color: rgb(109, 12, 69);
     text-align:left;
     margin-left:3%;
-    font-size:240%;
+    font-size:3vw;
     font-weight:bold;
     width:100%;
 }
 img{
-width:7%;
+width:7.5%;
 margin-left:3%;
 margin-top:1vh; 
 float:left;
 }
 #desc{
     color:  rgb(139, 24, 93);
-    font-size:150%;
-    float:left;
+    font-size:2vw;;
     margin-top:5vh;
     margin-left:3%;
     font-style:italic;
     font-weight: bold;
+    float:left;
+    width:49%;
    
 }
-div{
-    float:left;
-    margin-top:5vh;
-    margin-left:39%;
+#nav{
+    margin-top:7vh;
     font-style:italic;
     font-weight: bold;
+    float:left;
+    position :absolute;
+
 }
